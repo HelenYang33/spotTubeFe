@@ -1,0 +1,9 @@
+{
+  "rds_host": "spottube.cpqnqaqgduce.us-east-1.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "dbwizard",
+  "rds_password": "Dbwizard550!",
+  "rds_db": "spottube",
+  "server_host": "localhost",
+  "server_port": "8082"
+}
